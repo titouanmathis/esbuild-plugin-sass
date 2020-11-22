@@ -1,0 +1,9 @@
+@import 'component';
+
+.foo {
+	color: red;
+
+	&:hover {
+		color: blue;
+	}
+}

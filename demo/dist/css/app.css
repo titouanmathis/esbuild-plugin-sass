@@ -1,0 +1,10 @@
+/* demo/src/css/app.scss */
+.component__child {
+  display: block;
+}
+.foo {
+  color: red;
+}
+.foo:hover {
+  color: blue;
+}
